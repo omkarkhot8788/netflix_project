@@ -1,1 +1,1 @@
-# netflix_project
+# netflix movie and show exploration using SQL
