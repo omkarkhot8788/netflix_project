@@ -1,1 +1,1 @@
-# netflix movie and show exploration using SQL
+# Netflix movie & show exploration using SQL
